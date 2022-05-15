@@ -4,3 +4,4 @@ Olá! Bem vindo ao livto de receitas:wave:
 
 - Strogonoff de frango
 - Pavê
+- Bolo de Cenoura
